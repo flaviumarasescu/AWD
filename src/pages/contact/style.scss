@@ -1,0 +1,44 @@
+.contact-wrapper{
+  margin: 2rem 10%;
+}
+
+.contact__title{
+  background: rgb(241, 245, 249/1);
+  padding: 2rem 0;
+}
+
+section{
+  margin: 3rem 0;
+}
+
+a{
+  word-wrap: break-word;
+}
+
+@media screen and (max-width:  818px ) {
+
+}
+
+
+@media screen and (max-width:  522px ) {
+
+}
+
+
+@media screen and (max-width: 390px ) {
+ .contact__title{
+   font-size: 1.7rem;
+ }
+}
+
+
+@media screen and (max-width: 157px ) {
+  .contact__title{
+    font-size: 1.5rem;
+  }
+
+  .form-button{
+    padding: 0.875rem 0;
+    font-size: 0.875rem;
+  }
+}
