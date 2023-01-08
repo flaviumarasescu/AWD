@@ -1,12 +1,15 @@
 import React from 'react';
 import './SideMenu.scss';
+import searchBars from '../../assets/bars-solid.svg';
 
 const menuToggleButton = (props) => (
-  <button tabIndex="0" className="toggle-button" onClick={props.click}>
-    <div className="toggle-button-line" />
-    <div className="toggle-button-line" />
-    <div className="toggle-button-line" />
-  </button>
+  <img
+    alt="open side menu"
+    tabIndex="0"
+    src={searchBars}
+    className="toggle-button"
+    onClick={props.click}
+  />
 );
 
 export default menuToggleButton;

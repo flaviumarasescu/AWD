@@ -61,12 +61,12 @@ const Home = () => {
           Projects
         </h1>
         <div className="project">
-          <h3 tabIndex="0">Tesla</h3>
+          <h2 tabIndex="0">Tesla</h2>
           <div className="project__image">
             <picture>
               <source srcSet={teslaLogo1920} sizes="1920px" />
 
-              <img alt="project image" src={teslaLogo1920} />
+              <img alt="project image tesla" src={teslaLogo1920} />
             </picture>
           </div>
           <p>
@@ -82,7 +82,7 @@ const Home = () => {
           </p>
         </div>
         <div className="project">
-          <h3 tabIndex="0">Apple</h3>
+          <h2 tabIndex="0">Apple</h2>
           <div className="project__image">
             <picture>
               {/*<source*/}
@@ -92,7 +92,7 @@ const Home = () => {
               {/*/>*/}
               <source srcSet={appleLogo1920} sizes="1920px" />
 
-              <img alt="project image" src={appleLogo1920} />
+              <img alt="project image apple" src={appleLogo1920} />
             </picture>
           </div>
           <p>

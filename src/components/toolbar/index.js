@@ -11,7 +11,7 @@ const Toolbar = (props) => (
         <SideMenu click={props.drawerToggleClickHandler} />
       </div>
       <div className="toolbar_logo">
-        <a href="/">Flaviu-Stefan Marasescu</a>
+        <NavLink to="/">Flaviu-Stefan Marasescu</NavLink>
       </div>
       <div className="spacer" />
       <div className="toolbar_navigation-items">
