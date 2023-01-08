@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AWD/static/css/main.8e259f1e.css",
-    "main.js": "/AWD/static/js/main.3956be5e.js",
+    "main.js": "/AWD/static/js/main.ed11fcb7.js",
     "static/js/787.f587e8d5.chunk.js": "/AWD/static/js/787.f587e8d5.chunk.js",
     "static/media/apple-logo-1920.jpg": "/AWD/static/media/apple-logo-1920.6fd8b74fde6e5f5ceb67.jpg",
     "static/media/avatar-1920.png": "/AWD/static/media/avatar-1920.6ec7bdb22a24dc5fb20b.png",
@@ -9,12 +9,13 @@
     "static/media/avatar-1280.png": "/AWD/static/media/avatar-1280.79bfd233db79aec439d7.png",
     "static/media/avatar-640.png": "/AWD/static/media/avatar-640.2e4ef16d1cbc3b27f9d7.png",
     "index.html": "/AWD/index.html",
+    "static/media/bars-solid.svg": "/AWD/static/media/bars-solid.407d96f0e9d1a36140913ade1478fa27.svg",
     "main.8e259f1e.css.map": "/AWD/static/css/main.8e259f1e.css.map",
-    "main.3956be5e.js.map": "/AWD/static/js/main.3956be5e.js.map",
+    "main.ed11fcb7.js.map": "/AWD/static/js/main.ed11fcb7.js.map",
     "787.f587e8d5.chunk.js.map": "/AWD/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e259f1e.css",
-    "static/js/main.3956be5e.js"
+    "static/js/main.ed11fcb7.js"
   ]
 }
