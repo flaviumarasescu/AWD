@@ -45,3 +45,10 @@
     display: none;
   }
 }
+
+@media screen and (max-width: 522px  ) {
+  .side-drawer ul a{
+    word-break: break-all;
+    font-size: 0.875rem;
+  }
+}

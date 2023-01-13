@@ -5,9 +5,12 @@ import placeholder1280 from '../../assets/avatar-1280.png';
 import placeholder640 from '../../assets/avatar-640.png';
 
 import appleLogo1920 from '../../assets/apple-logo-1920.jpg';
+import appleLogo640 from '../../assets/apple-logo-640.jpg';
 import teslaLogo1920 from '../../assets/tesla-logo-1920.jpg';
+import teslaLogo640 from '../../assets/tesla-logo-640.jpg';
 
 import './style.scss';
+import aboutImg460 from '../../assets/about-image-640.jpg';
 
 const Home = () => {
   return (
@@ -64,6 +67,11 @@ const Home = () => {
           <h2 tabIndex="0">Tesla</h2>
           <div className="project__image">
             <picture>
+              <source
+                media="(max-width: 640px)"
+                srcSet={teslaLogo640}
+                sizes="640px"
+              />
               <source srcSet={teslaLogo1920} sizes="1920px" />
 
               <img alt="project image tesla" src={teslaLogo1920} />
@@ -85,11 +93,11 @@ const Home = () => {
           <h2 tabIndex="0">Apple</h2>
           <div className="project__image">
             <picture>
-              {/*<source*/}
-              {/*  media="(max-width: 640px)"*/}
-              {/*  srcSet={placeholder640}*/}
-              {/*  sizes="640px"*/}
-              {/*/>*/}
+              <source
+                media="(max-width: 640px)"
+                srcSet={appleLogo640}
+                sizes="640px"
+              />
               <source srcSet={appleLogo1920} sizes="1920px" />
 
               <img alt="project image apple" src={appleLogo1920} />

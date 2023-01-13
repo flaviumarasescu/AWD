@@ -12,10 +12,16 @@ const sideDrawer = (props) => {
     <nav className={drawerClasses.join(' ')}>
       <ul>
         <li>
-          <NavLink to="/">Home</NavLink>
+          <NavLink to="/" onClick={()=>props.backDropClickHandler()}>Home</NavLink>
         </li>
         <li>
-          <NavLink to="/contact">Contact</NavLink>
+          <NavLink to="/contact" onClick={()=>props.backDropClickHandler()}>Contact</NavLink>
+        </li>
+        <li>
+          <NavLink to="/about" onClick={()=>props.backDropClickHandler()}>About</NavLink>
+        </li>
+        <li>
+          <NavLink to="/web-development" onClick={()=>props.backDropClickHandler()}>Web Development</NavLink>
         </li>
       </ul>
     </nav>

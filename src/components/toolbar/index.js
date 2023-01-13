@@ -22,6 +22,12 @@ const Toolbar = (props) => (
           <li>
             <NavLink to="/contact">Contact</NavLink>
           </li>
+          <li>
+            <NavLink to="/about">About</NavLink>
+          </li>
+          <li>
+            <NavLink to="/web-development">Web Development</NavLink>
+          </li>
         </ul>
       </div>
     </nav>
