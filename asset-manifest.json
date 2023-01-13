@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AWD/static/css/main.6da5126f.css",
+    "main.css": "/AWD/static/css/main.812720a9.css",
     "main.js": "/AWD/static/js/main.ab46c208.js",
     "static/js/787.f587e8d5.chunk.js": "/AWD/static/js/787.f587e8d5.chunk.js",
     "static/media/about-image-1920.jpg": "/AWD/static/media/about-image-1920.342ad44429fbb52c9ce0.jpg",
@@ -18,12 +18,12 @@
     "index.html": "/AWD/index.html",
     "static/media/github-tile.svg": "/AWD/static/media/github-tile.11a5bdb0320ba839542a6d0aeafa1271.svg",
     "static/media/bars-solid.svg": "/AWD/static/media/bars-solid.407d96f0e9d1a36140913ade1478fa27.svg",
-    "main.6da5126f.css.map": "/AWD/static/css/main.6da5126f.css.map",
+    "main.812720a9.css.map": "/AWD/static/css/main.812720a9.css.map",
     "main.ab46c208.js.map": "/AWD/static/js/main.ab46c208.js.map",
     "787.f587e8d5.chunk.js.map": "/AWD/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6da5126f.css",
+    "static/css/main.812720a9.css",
     "static/js/main.ab46c208.js"
   ]
 }
