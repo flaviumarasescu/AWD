@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/AWD/static/css/main.f8f91a94.css",
-    "main.js": "/AWD/static/js/main.b0cc3332.js",
+    "main.css": "/AWD/static/css/main.6da5126f.css",
+    "main.js": "/AWD/static/js/main.ab46c208.js",
     "static/js/787.f587e8d5.chunk.js": "/AWD/static/js/787.f587e8d5.chunk.js",
+    "static/media/about-image-1920.jpg": "/AWD/static/media/about-image-1920.342ad44429fbb52c9ce0.jpg",
     "static/media/apple-logo-1920.jpg": "/AWD/static/media/apple-logo-1920.6fd8b74fde6e5f5ceb67.jpg",
+    "static/media/about-image-640.jpg": "/AWD/static/media/about-image-640.1f1e398de30350fcd568.jpg",
     "static/media/avatar-1920.png": "/AWD/static/media/avatar-1920.6ec7bdb22a24dc5fb20b.png",
     "static/media/tesla-logo-1920.jpg": "/AWD/static/media/tesla-logo-1920.569208cd31a9f3274088.jpg",
     "static/media/avatar-1280.png": "/AWD/static/media/avatar-1280.79bfd233db79aec439d7.png",
+    "static/media/apple-logo-640.jpg": "/AWD/static/media/apple-logo-640.ac0ed8ff14dff372832d.jpg",
     "static/media/avatar-640.png": "/AWD/static/media/avatar-640.2e4ef16d1cbc3b27f9d7.png",
+    "static/media/tesla-logo-640.jpg": "/AWD/static/media/tesla-logo-640.3aeb149e0769c9115a4d.jpg",
+    "static/media/nodejs-icon.svg": "/AWD/static/media/nodejs-icon.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/reactjs-icon.svg": "/AWD/static/media/reactjs-icon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "static/media/typescriptlang-icon.svg": "/AWD/static/media/typescriptlang-icon.78aa78046122abe258fee49f1dfe2f02.svg",
     "index.html": "/AWD/index.html",
+    "static/media/github-tile.svg": "/AWD/static/media/github-tile.11a5bdb0320ba839542a6d0aeafa1271.svg",
     "static/media/bars-solid.svg": "/AWD/static/media/bars-solid.407d96f0e9d1a36140913ade1478fa27.svg",
-    "main.f8f91a94.css.map": "/AWD/static/css/main.f8f91a94.css.map",
-    "main.b0cc3332.js.map": "/AWD/static/js/main.b0cc3332.js.map",
+    "main.6da5126f.css.map": "/AWD/static/css/main.6da5126f.css.map",
+    "main.ab46c208.js.map": "/AWD/static/js/main.ab46c208.js.map",
     "787.f587e8d5.chunk.js.map": "/AWD/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8f91a94.css",
-    "static/js/main.b0cc3332.js"
+    "static/css/main.6da5126f.css",
+    "static/js/main.ab46c208.js"
   ]
 }
